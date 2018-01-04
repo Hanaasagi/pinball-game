@@ -1,0 +1,8 @@
+[package]
+name = "pinball-game"
+version = "0.1.0"
+authors = ["Hanaasagi <ambiguous404@gmail.com>"]
+
+[dependencies]
+stdweb = "0.3"
+lazy_static = "1.0"
